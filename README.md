@@ -9,5 +9,4 @@ Regression cleaning etc
 + Two thing
 + Three
 
-
-[](https://github.com/k-x-h/Kevin_Portfolio/blob/main/images/graph.png)
+![](https://github.com/k-x-h/Kevin_Portfolio/blob/main/images/graph.png)
