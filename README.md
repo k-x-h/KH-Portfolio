@@ -12,15 +12,15 @@ An example of some of the visualizations that are included in this project:
 + Project is written in Python and uses Pandas, Tweepy (For tweet scraping), and TextBlob (For sentiment analysis)
 + Defaults to pulling the 50 most recent tweets, but can be modified to go above (Provided that you stay within the Twitter API request limit)
 
+Use of this project requires the user to have their own Twitter Dev API information (Consumer token/secret, access token/secret), but sample results have also been included (New_YorkSentimentAnalysis.csv)
+
+
 # [Project 3: SAT Scores (Data Cleaning)](https://github.com/k-x-h/dataClean)
 + Conducts data cleaning on a messy dataset of SAT results from 460 New York City schools.
 + Project is written in Python and uses Pandas to normalize and clean text.
 
 
-https://github.com/k-x-h/dataClean
 
-
-Use of this project requires the user to have their own Twitter Dev API information (Consumer token/secret, access token/secret), but sample results have also been included (New_YorkSentimentAnalysis.csv)
 
 
 
