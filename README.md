@@ -7,6 +7,9 @@ Computer Information Systems student at Manhattan College
 An example of some of the visualizations that are included in this project:
 ![](https://im2.ezgif.com/tmp/ezgif-2-acd45f73a0c9.gif)
 
+![](https://github.com/k-x-h/FinalGradePrediction/blob/main/images.gif)
+
+
 # [Project 2: Sentiment Analysis (Natural Language Processing)](https://github.com/k-x-h/Sentiment-Analysis)
 + Conducts a positive/negative and subjective/objective sentiment analysis on the most recent tweets containing a term specified by the user.
 + Project is written in Python and uses Pandas, Tweepy (For tweet scraping), and TextBlob (For sentiment analysis)
