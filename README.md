@@ -19,7 +19,3 @@ Use of this project requires the user to have their own Twitter Dev API informat
 
 
 
-# [Project 1](https://github.com/k-x-h/Sentiment-Analysis)
-Regression cleaning etc
-
-![](images/graph.png)
