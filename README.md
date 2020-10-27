@@ -5,12 +5,8 @@ Computer Information Systems student at Manhattan College
 + This project aims to predict the final grade of a student based on a ["Student Performance Data Set"](https://archive.ics.uci.edu/ml/datasets/Student+Performance) from the [University of California, Irvine (UCI) Center for Machine Learning and Intelligent Systems](https://cml.ics.uci.edu/), using exploratory data analysis, in additional to comparing multiple linear models to see which is best fit.
 + Project is written in Python and uses Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, and tests models such as Linear, Decision Tree, and K-Nearest Neighbors regression models
 
-
-![An example of some of the visualizations that are included in this project](https://github.com/k-x-h/FinalGradePrediction/blob/main/images.gif)
-
-
+An example of some of the visualizations that are included in this project:
 ![](/images/images.gif)
-
 
 # [Project 2: Sentiment Analysis (Natural Language Processing)](https://github.com/k-x-h/Sentiment-Analysis)
 + Conducts a positive/negative and subjective/objective sentiment analysis on the most recent tweets containing a term specified by the user.
